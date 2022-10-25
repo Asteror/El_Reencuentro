@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#009845</color>
+    <color name="purple_500">#009845</color>
+    <color name="purple_700">#009845</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Colores SUBWAY -->
+    <color name="green">#009845</color>
+    <color name="yellow">#FFCA08</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#a3a3a3</color>
+    <color name="verde">#009845</color>
+    <color name="azul">#2196F3</color>
+    <color name="plomo">#E3E6E8</color>
+
+</resources>
